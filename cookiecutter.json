@@ -1,0 +1,10 @@
+{
+    "project_name": "MySpringBootApp",
+    "description": "Web App",
+    "group_id": "com",
+    "java_package": "example",
+    "spring_boot_version": "3.2.2",
+    "java_version": "21",
+    "_copy_without_render": ["*.png", "*.jpg"]
+  }
+  
