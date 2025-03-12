@@ -57,10 +57,5 @@ spring_boiler
 - **License:**
   - This project is licensed under [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Special thanks to the Spring Boot and FreeMarker communities for their excellent documentation and support.
-
-### Happy coding!
-
-powered by Useful-Media © 2024
+powered by Useful-Media © 2025
